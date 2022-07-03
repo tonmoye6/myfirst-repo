@@ -1,7 +1,10 @@
 h1{
-    color:aliceblue;
+    color:red;
 }
 
 h3{
-    color: aqua;
+    color: gray;
+}
+p{
+    background-color: red;
 }
